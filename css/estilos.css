@@ -1,0 +1,18 @@
+.cuerpo {
+
+    margin: 0 auto; 
+    width: 90%;
+    height: 1200px;
+    background-color: lightgray;
+}
+
+display-4{
+
+    text-align: center;
+    margin: 0 auto;
+}
+
+h2{
+
+    text-align: center;
+}

@@ -1,0 +1,13 @@
+.cuerpo {
+
+    margin: 0 auto; 
+    width: 90%;
+    height: 1200px;
+    background-color: lightgray;
+}
+
+h1{
+
+    text-align: center;
+    margin: 0 auto;
+}
